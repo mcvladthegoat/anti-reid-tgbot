@@ -1,0 +1,15 @@
+{
+  "name": "ard-tgbot",
+  "version": "1.0.0",
+  "description": "Simple way to get info about patrol cars from anti_reid_msk tgchat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
