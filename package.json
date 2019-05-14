@@ -4,6 +4,7 @@
   "description": "Simple way to get info about patrol cars from anti_reid_msk tgchat",
   "main": "index.js",
   "scripts": {
+    "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
