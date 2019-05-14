@@ -1,5 +1,5 @@
 require('./geo');
-var token = ENV['tgbot_token'] || null;
+var token = process.env.tgbot_token || null;
 console.log(token);
 
 var Bot = require('node-telegram-bot-api'),
